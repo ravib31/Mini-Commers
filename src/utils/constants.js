@@ -1,0 +1,2 @@
+export const LOGO_URL = "https://imgs.search.brave.com/BvDeZLEknoPgsYhVZM88HZ8OY6rJpfY6q5byTniIHlM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtcGxhdGZvcm0u/OTlzdGF0aWMuY29t/Ly9GT3FVOEF0Yjkx/NzdfSG95TmczN0tk/Si1zY2M9Lzd4MjI6/OTc5eDk5NC9maXQt/aW4vNTAweDUwMC85/OWRlc2lnbnMtY29u/dGVzdHMtYXR0YWNo/bWVudHMvMTAwLzEw/MDQxNy9hdHRhY2ht/ZW50XzEwMDQxNzU1/MA";
+export const PRO_API = "https://fakestoreapi.com/products/"
